@@ -1,0 +1,4 @@
+Cakupan materi projek:
+- pointer
+- searching
+- sorting
